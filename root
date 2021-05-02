@@ -1,0 +1,1 @@
+*/3 * * * * sh /bin/test.sh > /dev/null 2>&1
